@@ -20,13 +20,18 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
 
    </div>
     
-  
-  <h1 align="center">Social Media</h1>
-    <a href = "mailto: biancasouto.eu@gmail.com">
-      <img width="30" src="Gmail.svg">
-    </a>
-    <a href = "www.linkedin.com/in/biancapinto0676">
-      <img width="25" src="Linkedin.svg">
+  <div>
+    <h1 align="center">Social Media</h1>
+    <a href = "https://mailto: biancasouto.eu@gmail.com"> 
+       <img src = "https://github.com/user-attachments/assets/071bb4e4-b797-4eab-827e-4d39b9683885" 
+       <div align ="center" style ="display: inline_block" width ="30px"> 
+       </a>
+</div>
+
+<div>
+   <a href = "https://www.linkedin.com/in/biancapinto0676">
+      <img src = "https://github.com/user-attachments/assets/d143e126-a2a7-48c8-97b0-478584da2cf7" 
+display: flex; justify-content: space-between; width ="30px">
     </a>
     </div>
   
