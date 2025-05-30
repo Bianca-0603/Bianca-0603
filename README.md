@@ -1,25 +1,23 @@
 ## Oi você ! 
 
-## Welcome to my profile!
-
-<div>
-  
-  <img  height="180em" src="https://github-readme-status.vercel.app/api?username=Bianca-0603&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=great-gatsby"/>
+Bem vinda (o) ao meu perfil ! 
+<div>  
+   
+<img src="https://github-readme-stats.vercel.app/api?username=Bianca-0603&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-0603&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
-<br>
 
-<div  align="center"> 
+
+<div align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center"> Technologies </h1>
+     <h1 align="center">       T e c h n o l o g i a s </h1>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+    <img align="center" height="30" width="40" alt="css-icon" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+
    </div>
     
   
@@ -30,12 +28,6 @@
     <a href = "www.linkedin.com/in/biancapinto0676">
       <img width="25" src="linkedin.svg">
     </a>
-    <a href = "#">
-      <img width="35" src="youtube.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
-    </a>
-</div>
+    </div>
   
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
