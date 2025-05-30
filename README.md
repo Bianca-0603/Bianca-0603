@@ -23,10 +23,10 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-o
   
   <h1 align="center">Social Media</h1>
     <a href = "mailto: biancasouto.eu@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="Gmail.svg">
     </a>
     <a href = "www.linkedin.com/in/biancapinto0676">
-      <img width="25" src="linkedin.svg">
+      <img width="25" src="Linkedin.svg">
     </a>
     </div>
   
