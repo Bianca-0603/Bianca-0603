@@ -1,17 +1,31 @@
-## Olá você!  😁🌎💻
+## Olá você! 😁🌎💻
 
+<div>
+   <a href="https://github.com">
+      <!-- Card 1: Estatísticas Gerais -->
+      <img height="180em" src="https://vercel.app"/>
+      
+      <!-- Card 2: Linguagens Mais Usadas -->
+      <img height="180em" src="https://vercel.app"/>
+   </a>   
+</div>
 
-[![Estatísticas do GitHub](https://vercel.app)](https://github.com)
-[![Linguagens Mais Usadas](https://vercel.app)](https://github.com)
+<h3>Tecnologias</h3>
 
-### T e c h n o l o g i a s
+<div style="display: inline-block">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://jsdelivr.net">
+  <img align="center" alt="HTML5" height="30" width="40" src="https://jsdelivr.net">
+  <img align="center" alt="CSS3" height="30" width="40" src="https://jsdelivr.net">
+</div>
 
-![JavaScript](https://shields.io) ![HTML5](https://shields.io) ![CSS3](https://shields.io)
+<br><br>
 
 ### Para conteúdo sobre programação, entre em contato!
 
-[![Gmail](https://shields.io)](mailto:biancasouto@gmail.com)
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+<div>
+  <a href="mailto:biancasouto@gmail.com"><img src="https://shields.io"></a>
+  <a href="https://linkedin.com"><img src="https://shields.io"></a>
+</div>
 
 
 
