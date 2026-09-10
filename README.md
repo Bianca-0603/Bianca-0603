@@ -3,7 +3,9 @@
 
  <div>
    [![Anurag's GitHub stats](https://github-stats-extended.vercel.app/apiBianca-0603=anuraghazra)](https://github.com/stats-organization/github-stats-extended)
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bianca-0603&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+  
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Bianca-0603&show_icons=true&include_all_commits=true&theme=transparent)](https://github-stats-extended.vercel.app/api?username=Bianca-0603&show_icons=true&include_all_commits=true&theme=transparent)
+  
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bianca-0603&layout=compact&langs_count=6&theme=dark_github"/>
 </div>
 </a>
