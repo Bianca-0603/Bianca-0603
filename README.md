@@ -25,7 +25,7 @@
 ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
 
 <div>
-  <a href = "mailto:biancasouto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:biancasouto@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail - biancasouto@gmail.com" target="_blank"></a>
   <a href="https://www.linkedin.com/in/biancapinto0676" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
