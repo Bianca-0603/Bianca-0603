@@ -3,8 +3,11 @@
 
  <div>
    <a href="https://github.com/Bianca-0603">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devemdobro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com">
+   <img height="180em" src="https://vercel.app"/>
+   <img height="180em" src="https://vercel.app"/>
+</a>
+
    </a>
 </div>
 
